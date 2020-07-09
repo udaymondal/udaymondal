@@ -1,6 +1,6 @@
 Hi there 👋
 
-Updating page - - .readme
+I'm Uday
 
 <!--
 **udaymondal/udaymondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

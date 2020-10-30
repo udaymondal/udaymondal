@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Uday
 
-https://udaymondal.github.io/
+
 
 <!--
 **udaymondal/udaymondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
